@@ -1,0 +1,5 @@
+# BAU policy: only docs/SOP-setup-guide.md and docs/solution-architecture.md are tracked in GitHub.
+# Everything else stays local unless a post explicitly needs a code demo published.
+/README.md
+/H1-2026-AI-Data-Brief.md
+/scripts/
